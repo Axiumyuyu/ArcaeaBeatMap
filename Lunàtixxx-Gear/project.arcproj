@@ -1,0 +1,21 @@
+lastOpenedChartPath: 2.aff
+charts:
+- chartPath: 2.aff
+  audioPath: base.ogg
+  jacketPath: base.jpg
+  baseBpm: 196
+  bpmText: 196
+  syncBaseBpm: true
+  backgroundPath: Background_arcanaeden.jpg
+  title: Lunàtixxx-Gear
+  composer: Laur、HyuN
+  charter: Axium.yu
+  illustrator: みしゃも
+  difficulty: Future 11
+  difficultyColor: '#482B54FF'
+  skin:
+    side: conflict
+    track: conflictvs
+    singleLine: conflict
+  lastWorkingTiming: 67234
+  previewEnd: 5000

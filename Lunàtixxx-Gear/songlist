@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "lunatixxx",
+      "title_localized": {
+        "en": "Lunàtixxx-Gear"
+      },
+      "artist": "Laur、HyuN",
+      "bpm": "196",
+      "bpm_base": 196,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 109835,
+      "audioPreviewEnd": 124870,
+      "side": 1,
+      "bg": "arcana_eden",
+      "date": 1691118119,
+      "version": "2.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Axium.yu",
+          "jacketDesigner": "みしゃも",
+          "rating": 11
+        }
+      ]
+    }
+  ]
+}

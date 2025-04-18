@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "xesx",
+      "title_localized": {
+        "en": "メタピュシカ"
+      },
+      "artist": "waniwave",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 113833,
+      "audioPreviewEnd": 129916,
+      "side": 0,
+      "bg": "aseLight",
+      "date": 1684934341,
+      "version": "2.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Axium. 钰",
+          "jacketDesigner": "",
+          "rating": 8
+        }
+      ]
+    }
+  ]
+}

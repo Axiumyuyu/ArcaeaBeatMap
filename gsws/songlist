@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "gsws",
+      "title_localized": {
+        "en": "国士无双"
+      },
+      "artist": "Laur",
+      "bpm": "170",
+      "bpm_base": 170,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 149981,
+      "audioPreviewEnd": 161244,
+      "side": 1,
+      "bg": "Background_finale_conflict",
+      "date": 1684467419,
+      "version": "2.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Axium. 钰",
+          "jacketDesigner": "",
+          "rating": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "nomad",
+      "title_localized": {
+        "en": "ノマド"
+      },
+      "artist": "",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 51249,
+      "audioPreviewEnd": 70249,
+      "side": 0,
+      "bg": "mirai_light",
+      "date": 1704811840,
+      "version": "3.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 9
+        }
+      ]
+    }
+  ]
+}

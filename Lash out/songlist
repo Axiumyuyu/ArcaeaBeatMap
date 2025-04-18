@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "lashout",
+      "title_localized": {
+        "en": "Lash Out"
+      },
+      "artist": "Laur",
+      "bpm": "0",
+      "bpm_base": 0,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 153302,
+      "audioPreviewEnd": 162977,
+      "side": 1,
+      "bg": "vs_conflict",
+      "date": 1681389740,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Axium. 钰",
+          "jacketDesigner": "",
+          "rating": 10
+        }
+      ]
+    }
+  ]
+}

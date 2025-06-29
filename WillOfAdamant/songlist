@@ -35,6 +35,13 @@
           "jacketDesigner": "",
           "rating": 10,
           "ratingPlus": true
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "Axium. 钰",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
         }
       ]
     }
